@@ -57,7 +57,7 @@
 
 <br>
 
-<a href="https://github.com/KanishkSingh039">
+<a href="https://speakify.kanishk.online">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-%23D32F2F.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
