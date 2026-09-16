@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kanishk_typing.gif" width="850">
+<img src="./kanishk_typing_fixed.gif" width="850">
 
 ### `FULL STACK • ROBOTICS • APPLIED AI`
 
