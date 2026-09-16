@@ -8,48 +8,27 @@
 
 <br>
 
-<a href="https://kanishk.online">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kanishk-singh-827259342/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square">
-</a>
-&nbsp;
-<a href="https://github.com/KanishkSingh039">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square">
-</a>
-
-</div>
-
----
-
-## `> about_me`
-
-```text
-Kanishk
-────────────────────────────────────────────
-
-Full Stack Developer
-MERN • Microservices • DevOps
-
-Robotics
-ROS2 • SLAM • Navigation • IoT
-
-Applied AI
-AI-powered applications • Intelligent Systems
-
-Currently → building things that connect
-software, infrastructure, AI & the real world.
-```
-
----
-
-## `> tech_stack`
+<div align="center">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,c,react,nodejs,express,mongodb,docker,nginx,redis,git,github,linux,ros" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F85149.svg)](https://kanishk.online)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-singh-827259342/)&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%2316161B.svg?logo=github&logoColor=white)](https://github.com/KanishkSingh039)
+
+</div>
+
+</div>
+
+</div>
+
+
+
+## `> Languages & Tools`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,python,c,react,nodejs,express,mongodb,docker,nginx,redis,git,github,linux,ros,ubuntu,vite,tailwind,redux" />
 
 </div>
 
@@ -60,80 +39,30 @@ software, infrastructure, AI & the real world.
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 💬 Speakify
+<h3>💬 Speakify</h3>
 
-Real-time chat platform
+<p><b>Real-time chat platform</b></p>
 
-`React` `Node` `MongoDB`
-`Socket.IO` `Cloudinary`
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248">
 
-</td>
+<br>
 
-<td width="50%">
+<img src="https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/WebRTC-111111?style=flat-square&logo=WebRTC&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudinary-111111?style=flat-square&logo=cloudinary&logoColor=3448C5">
 
-### 👨‍💻 CodeKro
+<br>
 
-Online code execution platform
-
-`Docker` `Redis` `BullMQ`
-`Nginx` `Microservices`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AgroSmart
-
-Autonomous agricultural rover
-
-`ROS2` `Nav2` `SLAM`
-`Raspberry Pi` `LiDAR`
+<a href="https://github.com/KanishkSingh039">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-%23D32F2F.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
-
-### 🧠 Applied AI
-
-Intelligent applications
-
-`Python` `AI` `ML`
-`Computer Vision`
-
-</td>
 
 </tr>
 </table>
-
----
-
-## `> github`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KanishkSingh039&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkSingh039&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-──────────────────────────────────────────────────
-
-             BUILD  •  LEARN  •  DEPLOY
-
-──────────────────────────────────────────────────
-
-```
-
-</div>
